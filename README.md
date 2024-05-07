@@ -7,7 +7,7 @@ This Python script allows you to generate QR codes for URLs, text, or host a loc
 - PIL (Python Imaging Library)
 
 You can install the required packages using pip:
-`pip install opencv-python qrcode pillow`
+```pip install opencv-python qrcode pillow```
 
 ## Usage
 1. Run the script:

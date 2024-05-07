@@ -19,3 +19,6 @@ pip install opencv-python qrcode pillow
     2) Text: Enter a text string, and the script will generate a QR code for that text.
     3) Files: Enter a file path, and the script will start a local server at http://your-ip-address:8000 and generate a QR code containing the server's URL. Scanning the QR code will open the specified directory in a web browser.
 3. The generated QR code will be displayed in a window. Press any key to close the window.
+
+## License
+This project is licensed under the MIT License.
